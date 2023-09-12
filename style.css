@@ -2,21 +2,40 @@
 html {
 background-color:white;
 font-family:"georgia";
+color:darkblue
 }
 
 h1 { 
 text-align: center;
 font-size: 50px;
+color:blue
+}
+
+h2 {
+    color:blue;
+}
+
+h3 {
+    color:darkmagenta
 }
 
 p.contact {
    text-align: center;
 }
 
+p.date {
+    text-align: right}
+
+
 ul.actions {
 list-style: none;
+line-height: 22px;
 }
 
 ul {
     list-style: square;
+}
+
+p.location {
+    font-style: italic;
 }
