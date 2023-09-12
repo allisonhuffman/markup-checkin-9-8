@@ -13,6 +13,7 @@ color:blue
 
 h2 {
     color:blue;
+    line-height: 50px;
 }
 
 h3 {
@@ -21,6 +22,7 @@ h3 {
 
 p.contact {
    text-align: center;
+   text-decoration: underline;
 }
 
 p.date {
@@ -38,4 +40,8 @@ ul {
 
 p.location {
     font-style: italic;
+}
+
+hr {
+    width: 500px;
 }
